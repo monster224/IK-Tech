@@ -576,13 +576,13 @@ button[type="submit"]:hover {
     <!-- Contact -->
     <div>
       <h3 id="contact" style="margin: -60px; font-size: 25px;">Contact Us</h3>
-    <p style="margin: 5px; font-size: 15px;">📞+92 327 0588057</p>
+    <p style="margin: 5px; font-size: 15px;">📞+92 3351410668</p>
       <p style="margin: 0; font-size: 15px;">✉️ khizerirfan11@gmail.com </p>
       <p style="margin: 0; font-size: 15px;">📍 Lahore, Pakistan</p>
       
       <!-- Social Icons -->
       <div style="margin-top: 15px; display: flex; gap: 15px;">
-        <a href="https://wa.me/03270588057" target="_blank" style="color: #25D366; font-size: 20px;" aria-label="WhatsApp"><i class="fab fa-whatsapp"></i></a>
+        <a href="https://wa.me/03351410668" target="_blank" style="color: #25D366; font-size: 20px;" aria-label="WhatsApp"><i class="fab fa-whatsapp"></i></a>
         <a href="https://www.linkedin.com/in/m-khizer-irfan-8a921033b/" target="_blank" style="color: #0A66C2; font-size: 20px;" aria-label="LinkedIn"><i class="fab fa-linkedin"></i></a>
         <a href="https://www.facebook.com/share/1AmK3g389N/?mibextid=wwXIfr"  target="_blank" style="color: #1877F2; font-size: 20px;" aria-label="Facebook"><i class="fab fa-facebook-f"></i></a>
         <a href="khizerirfan11@gmail.com" style="color: #ffffff; font-size: 20px;" aria-label="Email"><i class="fas fa-envelope"></i></a>
